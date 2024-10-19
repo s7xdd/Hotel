@@ -1,9 +1,9 @@
 
-Live Demo - https://hotelanding-s7xdd.netlify.app/
-
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+Live Demo - https://hotelanding-s7xdd.netlify.app/
 
 ## Available Scripts
 
